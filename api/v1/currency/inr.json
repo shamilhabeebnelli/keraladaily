@@ -1,96 +1,96 @@
 {
  "endpoint": "currency/inr",
  "description": "Indian Rupee exchange rates for 22 major currencies",
- "generated_at": "2026-11-22 01:02:31 IST",
+ "generated_at": "2026-11-22 12:38:23 IST",
  "source": "open.er-api.com (free tier, daily)",
  "count": 22,
  "data": {
   "base": "INR",
-  "source_date": "Fri, 20 Nov 2026 00:02:32 +0000",
+  "source_date": "Sun, 22 Nov 2026 00:02:32 +0000",
   "rates": {
    "USD": {
-    "one_inr_buys": 0.01071,
-    "one_unit_in_inr": 93.3707
+    "one_inr_buys": 0.010766,
+    "one_unit_in_inr": 92.885
    },
    "EUR": {
-    "one_inr_buys": 0.009758,
-    "one_unit_in_inr": 102.48
+    "one_inr_buys": 0.009812,
+    "one_unit_in_inr": 101.916
    },
    "GBP": {
-    "one_inr_buys": 0.008165,
-    "one_unit_in_inr": 122.474
+    "one_inr_buys": 0.008219,
+    "one_unit_in_inr": 121.6693
    },
    "AED": {
-    "one_inr_buys": 0.039332,
-    "one_unit_in_inr": 25.4246
+    "one_inr_buys": 0.039536,
+    "one_unit_in_inr": 25.2934
    },
    "SAR": {
-    "one_inr_buys": 0.040162,
-    "one_unit_in_inr": 24.8992
+    "one_inr_buys": 0.040371,
+    "one_unit_in_inr": 24.7703
    },
    "QAR": {
-    "one_inr_buys": 0.038984,
-    "one_unit_in_inr": 25.6515
+    "one_inr_buys": 0.039187,
+    "one_unit_in_inr": 25.5187
    },
    "KWD": {
-    "one_inr_buys": 0.003333,
-    "one_unit_in_inr": 300.03
+    "one_inr_buys": 0.003349,
+    "one_unit_in_inr": 298.5966
    },
    "BHD": {
-    "one_inr_buys": 0.004027,
-    "one_unit_in_inr": 248.3238
+    "one_inr_buys": 0.004048,
+    "one_unit_in_inr": 247.0356
    },
    "OMR": {
-    "one_inr_buys": 0.004118,
-    "one_unit_in_inr": 242.8363
+    "one_inr_buys": 0.004139,
+    "one_unit_in_inr": 241.6043
    },
    "JPY": {
-    "one_inr_buys": 1.713383,
-    "one_unit_in_inr": 0.5836
+    "one_inr_buys": 1.712707,
+    "one_unit_in_inr": 0.5839
    },
    "CNY": {
-    "one_inr_buys": 0.071356,
-    "one_unit_in_inr": 14.0142
+    "one_inr_buys": 0.071697,
+    "one_unit_in_inr": 13.9476
    },
    "AUD": {
-    "one_inr_buys": 0.016043,
-    "one_unit_in_inr": 62.3325
+    "one_inr_buys": 0.016233,
+    "one_unit_in_inr": 61.6029
    },
    "CAD": {
-    "one_inr_buys": 0.015344,
-    "one_unit_in_inr": 65.1721
+    "one_inr_buys": 0.015428,
+    "one_unit_in_inr": 64.8172
    },
    "SGD": {
-    "one_inr_buys": 0.013833,
-    "one_unit_in_inr": 72.2909
+    "one_inr_buys": 0.01389,
+    "one_unit_in_inr": 71.9942
    },
    "MYR": {
-    "one_inr_buys": 0.04408,
-    "one_unit_in_inr": 22.686
+    "one_inr_buys": 0.044237,
+    "one_unit_in_inr": 22.6055
    },
    "THB": {
-    "one_inr_buys": 0.363782,
-    "one_unit_in_inr": 2.7489
+    "one_inr_buys": 0.365287,
+    "one_unit_in_inr": 2.7376
    },
    "CHF": {
-    "one_inr_buys": 0.009036,
-    "one_unit_in_inr": 110.6684
+    "one_inr_buys": 0.00906,
+    "one_unit_in_inr": 110.3753
    },
    "ZAR": {
-    "one_inr_buys": 0.185883,
-    "one_unit_in_inr": 5.3797
+    "one_inr_buys": 0.188227,
+    "one_unit_in_inr": 5.3127
    },
    "PKR": {
-    "one_inr_buys": 2.962241,
-    "one_unit_in_inr": 0.3376
+    "one_inr_buys": 2.964053,
+    "one_unit_in_inr": 0.3374
    },
    "BDT": {
-    "one_inr_buys": 1.333441,
+    "one_inr_buys": 1.333492,
     "one_unit_in_inr": 0.7499
    },
    "LKR": {
-    "one_inr_buys": 3.56468,
-    "one_unit_in_inr": 0.2805
+    "one_inr_buys": 3.571623,
+    "one_unit_in_inr": 0.28
    },
    "NPR": {
     "one_inr_buys": 1.6,

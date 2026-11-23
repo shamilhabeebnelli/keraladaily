@@ -1,29 +1,29 @@
 {
  "endpoint": "metals/india",
  "description": "Indicative gold and silver rates in INR derived from international spot prices, with source timestamps",
- "generated_at": "2026-11-23 01:22:26 IST",
+ "generated_at": "2026-11-23 13:24:46 IST",
  "source": "api.gold-api.com spot (free, no key) + keraladaily currency/inr snapshot",
  "count": 7,
  "data": {
   "unit": "INR",
   "gold": {
-   "per_gram_24k": 10569,
-   "per_gram_22k": 9688,
-   "per_gram_18k": 7926,
-   "per_pavan_22k_8g": 77503
+   "per_gram_24k": 10811,
+   "per_gram_22k": 9910,
+   "per_gram_18k": 8108,
+   "per_pavan_22k_8g": 79280
   },
   "silver": {
-   "per_gram": 122.68,
-   "per_kg": 122678
+   "per_gram": 126.76,
+   "per_kg": 126757
   },
   "spot": {
-   "gold_usd_per_oz": 3539.0,
-   "gold_source_updated_at": "2026-11-22T19:52:10Z",
-   "silver_usd_per_oz": 41.080002,
-   "silver_source_updated_at": "2026-11-22T19:52:09Z"
+   "gold_usd_per_oz": 3625.199951,
+   "gold_source_updated_at": "2026-11-23T07:54:41Z",
+   "silver_usd_per_oz": 42.505001,
+   "silver_source_updated_at": "2026-11-23T07:54:40Z"
   },
-  "usdinr_used": 92.885,
-  "usdinr_source_date": "Sun, 22 Nov 2026 00:02:32 +0000",
+  "usdinr_used": 92.7558,
+  "usdinr_source_date": "Mon, 23 Nov 2026 00:02:32 +0000",
   "basis": "Derived from international spot prices converted at the latest INR snapshot. Indicative only, not a live or retail rate: Indian shop rates are higher (premiums, making charges, GST) and vary by shop and city."
  }
 }

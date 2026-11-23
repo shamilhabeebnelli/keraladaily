@@ -1,7 +1,7 @@
 {
  "name": "keraladaily",
  "base_url": "https://keralafortune.denelli.in/api/v1/",
- "generated_at": "2026-11-23 01:22:26 IST",
+ "generated_at": "2026-11-23 13:24:46 IST",
  "endpoints": {
   "weather/kerala": {
    "url": "https://keralafortune.denelli.in/api/v1/weather/kerala.json",
@@ -12,7 +12,7 @@
   "prayer-times/kerala": {
    "url": "https://keralafortune.denelli.in/api/v1/prayer-times/kerala.json",
    "description": "Daily prayer times for 8 Kerala towns",
-   "status": "ok",
+   "status": "stale",
    "count": 8
   },
   "currency/inr": {

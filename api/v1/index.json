@@ -1,7 +1,7 @@
 {
  "name": "keraladaily",
  "base_url": "https://keralafortune.denelli.in/api/v1/",
- "generated_at": "2026-11-23 13:24:46 IST",
+ "generated_at": "2026-11-24 05:36:49 IST",
  "endpoints": {
   "weather/kerala": {
    "url": "https://keralafortune.denelli.in/api/v1/weather/kerala.json",

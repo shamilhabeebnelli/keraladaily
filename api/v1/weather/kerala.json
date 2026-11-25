@@ -1,7 +1,7 @@
 {
  "endpoint": "weather/kerala",
  "description": "Current weather and 3-day forecast for all 14 Kerala districts",
- "generated_at": "2026-11-25 04:07:29 IST",
+ "generated_at": "2026-11-25 14:23:38 IST",
  "source": "Open-Meteo (open-meteo.com), CC-BY 4.0",
  "count": 14,
  "data": [
@@ -9,27 +9,27 @@
    "district": "Thiruvananthapuram",
    "latitude": 8.5241,
    "longitude": 76.9366,
-   "temperature_c": 25.9,
-   "humidity_pct": 87,
-   "wind_kmh": 1.8,
-   "condition": "Overcast",
+   "temperature_c": 27.3,
+   "humidity_pct": 90,
+   "wind_kmh": 2.3,
+   "condition": "Heavy drizzle",
    "forecast": [
     {
      "date": "2026-11-25",
-     "temp_max_c": 31.3,
-     "temp_min_c": 25.2,
-     "rain_chance_pct": 98
+     "temp_max_c": 30.8,
+     "temp_min_c": 24.6,
+     "rain_chance_pct": 100
     },
     {
      "date": "2026-11-26",
-     "temp_max_c": 27.5,
-     "temp_min_c": 24.5,
+     "temp_max_c": 27.1,
+     "temp_min_c": 24.1,
      "rain_chance_pct": 100
     },
     {
      "date": "2026-11-27",
-     "temp_max_c": 29.5,
-     "temp_min_c": 23.7,
+     "temp_max_c": 29.9,
+     "temp_min_c": 23.4,
      "rain_chance_pct": 100
     }
    ]
@@ -38,28 +38,28 @@
    "district": "Kollam",
    "latitude": 8.8932,
    "longitude": 76.6141,
-   "temperature_c": 26.9,
-   "humidity_pct": 76,
-   "wind_kmh": 14.4,
-   "condition": "Overcast",
+   "temperature_c": 28.1,
+   "humidity_pct": 84,
+   "wind_kmh": 6.7,
+   "condition": "Light drizzle",
    "forecast": [
     {
      "date": "2026-11-25",
-     "temp_max_c": 32.6,
-     "temp_min_c": 25.3,
-     "rain_chance_pct": 89
+     "temp_max_c": 31.8,
+     "temp_min_c": 25.5,
+     "rain_chance_pct": 99
     },
     {
      "date": "2026-11-26",
-     "temp_max_c": 29.0,
-     "temp_min_c": 25.2,
-     "rain_chance_pct": 100
+     "temp_max_c": 26.9,
+     "temp_min_c": 24.4,
+     "rain_chance_pct": 96
     },
     {
      "date": "2026-11-27",
-     "temp_max_c": 29.3,
-     "temp_min_c": 24.6,
-     "rain_chance_pct": 98
+     "temp_max_c": 29.5,
+     "temp_min_c": 24.3,
+     "rain_chance_pct": 99
     }
    ]
   },
@@ -67,28 +67,28 @@
    "district": "Pathanamthitta",
    "latitude": 9.2648,
    "longitude": 76.787,
-   "temperature_c": 25.1,
+   "temperature_c": 26.8,
    "humidity_pct": 89,
-   "wind_kmh": 0.4,
-   "condition": "Overcast",
+   "wind_kmh": 2.7,
+   "condition": "Light showers",
    "forecast": [
     {
      "date": "2026-11-25",
-     "temp_max_c": 31.4,
-     "temp_min_c": 23.9,
+     "temp_max_c": 30.7,
+     "temp_min_c": 24.0,
      "rain_chance_pct": 100
     },
     {
      "date": "2026-11-26",
-     "temp_max_c": 28.2,
+     "temp_max_c": 27.2,
      "temp_min_c": 23.4,
      "rain_chance_pct": 100
     },
     {
      "date": "2026-11-27",
-     "temp_max_c": 30.1,
-     "temp_min_c": 22.8,
-     "rain_chance_pct": 99
+     "temp_max_c": 31.0,
+     "temp_min_c": 22.4,
+     "rain_chance_pct": 100
     }
    ]
   },
@@ -96,27 +96,27 @@
    "district": "Alappuzha",
    "latitude": 9.4981,
    "longitude": 76.3388,
-   "temperature_c": 26.7,
-   "humidity_pct": 93,
-   "wind_kmh": 2.3,
-   "condition": "Overcast",
+   "temperature_c": 27.3,
+   "humidity_pct": 92,
+   "wind_kmh": 1.6,
+   "condition": "Showers",
    "forecast": [
     {
      "date": "2026-11-25",
-     "temp_max_c": 30.7,
-     "temp_min_c": 25.6,
+     "temp_max_c": 30.5,
+     "temp_min_c": 24.8,
      "rain_chance_pct": 100
     },
     {
      "date": "2026-11-26",
-     "temp_max_c": 28.9,
-     "temp_min_c": 25.0,
-     "rain_chance_pct": 99
+     "temp_max_c": 28.8,
+     "temp_min_c": 24.7,
+     "rain_chance_pct": 100
     },
     {
      "date": "2026-11-27",
-     "temp_max_c": 29.9,
-     "temp_min_c": 24.8,
+     "temp_max_c": 30.1,
+     "temp_min_c": 24.5,
      "rain_chance_pct": 100
     }
    ]
@@ -125,27 +125,27 @@
    "district": "Kottayam",
    "latitude": 9.5916,
    "longitude": 76.5222,
-   "temperature_c": 25.7,
-   "humidity_pct": 92,
-   "wind_kmh": 3.8,
-   "condition": "Overcast",
+   "temperature_c": 26.7,
+   "humidity_pct": 94,
+   "wind_kmh": 5.1,
+   "condition": "Thunderstorm",
    "forecast": [
     {
      "date": "2026-11-25",
-     "temp_max_c": 33.1,
-     "temp_min_c": 24.9,
+     "temp_max_c": 32.4,
+     "temp_min_c": 24.7,
      "rain_chance_pct": 100
     },
     {
      "date": "2026-11-26",
-     "temp_max_c": 29.3,
-     "temp_min_c": 24.3,
-     "rain_chance_pct": 99
+     "temp_max_c": 29.9,
+     "temp_min_c": 24.1,
+     "rain_chance_pct": 100
     },
     {
      "date": "2026-11-27",
-     "temp_max_c": 31.4,
-     "temp_min_c": 23.8,
+     "temp_max_c": 31.5,
+     "temp_min_c": 24.1,
      "rain_chance_pct": 100
     }
    ]
@@ -154,28 +154,28 @@
    "district": "Idukki",
    "latitude": 9.8497,
    "longitude": 76.9683,
-   "temperature_c": 22.4,
-   "humidity_pct": 90,
-   "wind_kmh": 5.4,
-   "condition": "Overcast",
+   "temperature_c": 25.2,
+   "humidity_pct": 85,
+   "wind_kmh": 1.3,
+   "condition": "Drizzle",
    "forecast": [
     {
      "date": "2026-11-25",
-     "temp_max_c": 30.4,
-     "temp_min_c": 22.2,
-     "rain_chance_pct": 100
+     "temp_max_c": 29.9,
+     "temp_min_c": 22.3,
+     "rain_chance_pct": 99
     },
     {
      "date": "2026-11-26",
-     "temp_max_c": 28.3,
-     "temp_min_c": 21.9,
+     "temp_max_c": 26.3,
+     "temp_min_c": 22.0,
      "rain_chance_pct": 100
     },
     {
      "date": "2026-11-27",
-     "temp_max_c": 30.2,
-     "temp_min_c": 20.9,
-     "rain_chance_pct": 88
+     "temp_max_c": 29.8,
+     "temp_min_c": 21.2,
+     "rain_chance_pct": 100
     }
    ]
   },
@@ -183,28 +183,28 @@
    "district": "Ernakulam",
    "latitude": 9.9312,
    "longitude": 76.2673,
-   "temperature_c": 27.6,
-   "humidity_pct": 87,
-   "wind_kmh": 0.6,
-   "condition": "Overcast",
+   "temperature_c": 31.3,
+   "humidity_pct": 64,
+   "wind_kmh": 11.1,
+   "condition": "Heavy drizzle",
    "forecast": [
     {
      "date": "2026-11-25",
-     "temp_max_c": 31.7,
-     "temp_min_c": 25.9,
+     "temp_max_c": 32.1,
+     "temp_min_c": 25.8,
      "rain_chance_pct": 100
     },
     {
      "date": "2026-11-26",
-     "temp_max_c": 29.3,
-     "temp_min_c": 25.2,
-     "rain_chance_pct": 97
+     "temp_max_c": 29.1,
+     "temp_min_c": 25.3,
+     "rain_chance_pct": 99
     },
     {
      "date": "2026-11-27",
-     "temp_max_c": 29.9,
+     "temp_max_c": 29.5,
      "temp_min_c": 25.0,
-     "rain_chance_pct": 71
+     "rain_chance_pct": 79
     }
    ]
   },
@@ -212,28 +212,28 @@
    "district": "Thrissur",
    "latitude": 10.5276,
    "longitude": 76.2144,
-   "temperature_c": 27.0,
-   "humidity_pct": 78,
-   "wind_kmh": 13.5,
-   "condition": "Overcast",
+   "temperature_c": 27.5,
+   "humidity_pct": 88,
+   "wind_kmh": 9.3,
+   "condition": "Thunderstorm",
    "forecast": [
     {
      "date": "2026-11-25",
-     "temp_max_c": 34.4,
-     "temp_min_c": 25.3,
+     "temp_max_c": 34.2,
+     "temp_min_c": 25.4,
      "rain_chance_pct": 100
     },
     {
      "date": "2026-11-26",
-     "temp_max_c": 31.6,
-     "temp_min_c": 24.2,
-     "rain_chance_pct": 100
+     "temp_max_c": 30.0,
+     "temp_min_c": 24.7,
+     "rain_chance_pct": 99
     },
     {
      "date": "2026-11-27",
      "temp_max_c": 31.4,
-     "temp_min_c": 24.3,
-     "rain_chance_pct": 76
+     "temp_min_c": 24.1,
+     "rain_chance_pct": 89
     }
    ]
   },
@@ -241,28 +241,28 @@
    "district": "Palakkad",
    "latitude": 10.7867,
    "longitude": 76.6548,
-   "temperature_c": 25.8,
-   "humidity_pct": 80,
-   "wind_kmh": 9.2,
-   "condition": "Overcast",
+   "temperature_c": 29.2,
+   "humidity_pct": 73,
+   "wind_kmh": 12.3,
+   "condition": "Light showers",
    "forecast": [
     {
      "date": "2026-11-25",
-     "temp_max_c": 33.5,
-     "temp_min_c": 24.4,
-     "rain_chance_pct": 98
-    },
-    {
-     "date": "2026-11-26",
-     "temp_max_c": 31.6,
-     "temp_min_c": 23.6,
+     "temp_max_c": 32.9,
+     "temp_min_c": 24.3,
      "rain_chance_pct": 100
     },
     {
+     "date": "2026-11-26",
+     "temp_max_c": 30.4,
+     "temp_min_c": 23.9,
+     "rain_chance_pct": 99
+    },
+    {
      "date": "2026-11-27",
-     "temp_max_c": 31.7,
-     "temp_min_c": 23.6,
-     "rain_chance_pct": 53
+     "temp_max_c": 32.2,
+     "temp_min_c": 23.7,
+     "rain_chance_pct": 82
     }
    ]
   },
@@ -270,28 +270,28 @@
    "district": "Malappuram",
    "latitude": 11.051,
    "longitude": 76.0711,
-   "temperature_c": 25.9,
-   "humidity_pct": 76,
-   "wind_kmh": 4.1,
-   "condition": "Overcast",
+   "temperature_c": 30.2,
+   "humidity_pct": 73,
+   "wind_kmh": 5.5,
+   "condition": "Light showers",
    "forecast": [
     {
      "date": "2026-11-25",
-     "temp_max_c": 33.4,
-     "temp_min_c": 24.7,
+     "temp_max_c": 34.0,
+     "temp_min_c": 24.3,
      "rain_chance_pct": 100
     },
     {
      "date": "2026-11-26",
-     "temp_max_c": 29.8,
-     "temp_min_c": 23.6,
-     "rain_chance_pct": 92
+     "temp_max_c": 31.1,
+     "temp_min_c": 23.9,
+     "rain_chance_pct": 100
     },
     {
      "date": "2026-11-27",
-     "temp_max_c": 31.7,
-     "temp_min_c": 23.2,
-     "rain_chance_pct": 84
+     "temp_max_c": 31.2,
+     "temp_min_c": 23.4,
+     "rain_chance_pct": 94
     }
    ]
   },
@@ -299,28 +299,28 @@
    "district": "Kozhikode",
    "latitude": 11.2588,
    "longitude": 75.7804,
-   "temperature_c": 25.3,
-   "humidity_pct": 97,
-   "wind_kmh": 5.6,
-   "condition": "Light showers",
+   "temperature_c": 30.6,
+   "humidity_pct": 68,
+   "wind_kmh": 13.3,
+   "condition": "Overcast",
    "forecast": [
     {
      "date": "2026-11-25",
-     "temp_max_c": 31.6,
-     "temp_min_c": 24.3,
-     "rain_chance_pct": 99
+     "temp_max_c": 31.5,
+     "temp_min_c": 24.5,
+     "rain_chance_pct": 100
     },
     {
      "date": "2026-11-26",
-     "temp_max_c": 29.1,
-     "temp_min_c": 24.2,
-     "rain_chance_pct": 93
+     "temp_max_c": 29.2,
+     "temp_min_c": 24.3,
+     "rain_chance_pct": 96
     },
     {
      "date": "2026-11-27",
-     "temp_max_c": 30.6,
-     "temp_min_c": 23.5,
-     "rain_chance_pct": 84
+     "temp_max_c": 30.5,
+     "temp_min_c": 23.4,
+     "rain_chance_pct": 88
     }
    ]
   },
@@ -328,28 +328,28 @@
    "district": "Wayanad",
    "latitude": 11.6854,
    "longitude": 76.132,
-   "temperature_c": 21.4,
-   "humidity_pct": 95,
-   "wind_kmh": 3.2,
-   "condition": "Overcast",
+   "temperature_c": 25.9,
+   "humidity_pct": 74,
+   "wind_kmh": 6.8,
+   "condition": "Light showers",
    "forecast": [
     {
      "date": "2026-11-25",
-     "temp_max_c": 29.8,
-     "temp_min_c": 21.1,
+     "temp_max_c": 29.4,
+     "temp_min_c": 21.4,
      "rain_chance_pct": 100
     },
     {
      "date": "2026-11-26",
-     "temp_max_c": 27.4,
+     "temp_max_c": 25.9,
      "temp_min_c": 20.8,
-     "rain_chance_pct": 98
+     "rain_chance_pct": 96
     },
     {
      "date": "2026-11-27",
-     "temp_max_c": 28.2,
-     "temp_min_c": 20.8,
-     "rain_chance_pct": 88
+     "temp_max_c": 28.1,
+     "temp_min_c": 20.6,
+     "rain_chance_pct": 96
     }
    ]
   },
@@ -357,28 +357,28 @@
    "district": "Kannur",
    "latitude": 11.8745,
    "longitude": 75.3704,
-   "temperature_c": 26.6,
-   "humidity_pct": 78,
-   "wind_kmh": 7.6,
-   "condition": "Drizzle",
+   "temperature_c": 29.9,
+   "humidity_pct": 76,
+   "wind_kmh": 5.5,
+   "condition": "Light drizzle",
    "forecast": [
     {
      "date": "2026-11-25",
      "temp_max_c": 32.0,
-     "temp_min_c": 25.0,
-     "rain_chance_pct": 80
+     "temp_min_c": 24.8,
+     "rain_chance_pct": 100
     },
     {
      "date": "2026-11-26",
-     "temp_max_c": 29.6,
-     "temp_min_c": 24.3,
-     "rain_chance_pct": 67
+     "temp_max_c": 29.8,
+     "temp_min_c": 24.7,
+     "rain_chance_pct": 78
     },
     {
      "date": "2026-11-27",
-     "temp_max_c": 31.0,
-     "temp_min_c": 23.8,
-     "rain_chance_pct": 69
+     "temp_max_c": 30.6,
+     "temp_min_c": 24.1,
+     "rain_chance_pct": 73
     }
    ]
   },
@@ -386,28 +386,28 @@
    "district": "Kasaragod",
    "latitude": 12.4996,
    "longitude": 74.9869,
-   "temperature_c": 25.5,
-   "humidity_pct": 85,
-   "wind_kmh": 5.7,
-   "condition": "Overcast",
+   "temperature_c": 29.9,
+   "humidity_pct": 76,
+   "wind_kmh": 8.0,
+   "condition": "Light drizzle",
    "forecast": [
     {
      "date": "2026-11-25",
-     "temp_max_c": 31.2,
-     "temp_min_c": 24.9,
-     "rain_chance_pct": 73
+     "temp_max_c": 31.8,
+     "temp_min_c": 25.2,
+     "rain_chance_pct": 83
     },
     {
      "date": "2026-11-26",
-     "temp_max_c": 30.5,
-     "temp_min_c": 24.0,
-     "rain_chance_pct": 64
+     "temp_max_c": 30.3,
+     "temp_min_c": 24.6,
+     "rain_chance_pct": 77
     },
     {
      "date": "2026-11-27",
-     "temp_max_c": 31.0,
-     "temp_min_c": 23.7,
-     "rain_chance_pct": 61
+     "temp_max_c": 31.1,
+     "temp_min_c": 24.0,
+     "rain_chance_pct": 53
     }
    ]
   }

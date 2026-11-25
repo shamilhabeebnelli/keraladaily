@@ -1,31 +1,31 @@
 {
  "endpoint": "prayer-times/kerala",
  "description": "Daily prayer times for 8 Kerala towns",
- "generated_at": "2026-11-25 14:23:38 IST",
+ "generated_at": "2026-11-26 03:21:38 IST",
  "source": "Aladhan (aladhan.com), method: Univ. of Islamic Sciences, Karachi",
  "count": 8,
  "data": [
   {
    "town": "Kozhikode",
-   "date": "25 Nov 2026",
-   "hijri": "15-06-1448",
+   "date": "26 Nov 2026",
+   "hijri": "16-06-1448",
    "timings": {
     "Fajr": "05:13",
-    "Sunrise": "06:27",
+    "Sunrise": "06:28",
     "Dhuhr": "12:14",
     "Asr": "15:33",
     "Maghrib": "18:00",
-    "Isha": "19:14"
+    "Isha": "19:15"
    }
   },
   {
    "town": "Malappuram",
-   "date": "25 Nov 2026",
-   "hijri": "15-06-1448",
+   "date": "26 Nov 2026",
+   "hijri": "16-06-1448",
    "timings": {
-    "Fajr": "05:11",
+    "Fajr": "05:12",
     "Sunrise": "06:26",
-    "Dhuhr": "12:12",
+    "Dhuhr": "12:13",
     "Asr": "15:32",
     "Maghrib": "17:59",
     "Isha": "19:13"
@@ -33,37 +33,37 @@
   },
   {
    "town": "Kochi",
-   "date": "25 Nov 2026",
-   "hijri": "15-06-1448",
+   "date": "26 Nov 2026",
+   "hijri": "16-06-1448",
    "timings": {
-    "Fajr": "05:09",
-    "Sunrise": "06:23",
+    "Fajr": "05:10",
+    "Sunrise": "06:24",
     "Dhuhr": "12:12",
     "Asr": "15:32",
     "Maghrib": "18:00",
-    "Isha": "19:14"
+    "Isha": "19:15"
    }
   },
   {
    "town": "Thiruvananthapuram",
-   "date": "25 Nov 2026",
-   "hijri": "15-06-1448",
+   "date": "26 Nov 2026",
+   "hijri": "16-06-1448",
    "timings": {
     "Fajr": "05:05",
-    "Sunrise": "06:18",
+    "Sunrise": "06:19",
     "Dhuhr": "12:09",
-    "Asr": "15:30",
+    "Asr": "15:31",
     "Maghrib": "18:00",
     "Isha": "19:14"
    }
   },
   {
    "town": "Thrissur",
-   "date": "25 Nov 2026",
-   "hijri": "15-06-1448",
+   "date": "26 Nov 2026",
+   "hijri": "16-06-1448",
    "timings": {
-    "Fajr": "05:10",
-    "Sunrise": "06:24",
+    "Fajr": "05:11",
+    "Sunrise": "06:25",
     "Dhuhr": "12:12",
     "Asr": "15:32",
     "Maghrib": "18:00",
@@ -72,12 +72,12 @@
   },
   {
    "town": "Kannur",
-   "date": "25 Nov 2026",
-   "hijri": "15-06-1448",
+   "date": "26 Nov 2026",
+   "hijri": "16-06-1448",
    "timings": {
-    "Fajr": "05:15",
+    "Fajr": "05:16",
     "Sunrise": "06:30",
-    "Dhuhr": "12:15",
+    "Dhuhr": "12:16",
     "Asr": "15:34",
     "Maghrib": "18:01",
     "Isha": "19:15"
@@ -85,24 +85,24 @@
   },
   {
    "town": "Palakkad",
-   "date": "25 Nov 2026",
-   "hijri": "15-06-1448",
+   "date": "26 Nov 2026",
+   "hijri": "16-06-1448",
    "timings": {
     "Fajr": "05:09",
-    "Sunrise": "06:23",
-    "Dhuhr": "12:10",
+    "Sunrise": "06:24",
+    "Dhuhr": "12:11",
     "Asr": "15:30",
-    "Maghrib": "17:57",
+    "Maghrib": "17:58",
     "Isha": "19:12"
    }
   },
   {
    "town": "Kollam",
-   "date": "25 Nov 2026",
-   "hijri": "15-06-1448",
+   "date": "26 Nov 2026",
+   "hijri": "16-06-1448",
    "timings": {
     "Fajr": "05:07",
-    "Sunrise": "06:20",
+    "Sunrise": "06:21",
     "Dhuhr": "12:11",
     "Asr": "15:32",
     "Maghrib": "18:01",

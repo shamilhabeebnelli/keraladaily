@@ -1,12 +1,12 @@
 {
  "name": "keraladaily",
  "base_url": "https://keralafortune.denelli.in/api/v1/",
- "generated_at": "2026-11-25 14:23:38 IST",
+ "generated_at": "2026-11-26 03:21:38 IST",
  "endpoints": {
   "weather/kerala": {
    "url": "https://keralafortune.denelli.in/api/v1/weather/kerala.json",
    "description": "Current weather and 3-day forecast for all 14 Kerala districts",
-   "status": "ok",
+   "status": "stale",
    "count": 14
   },
   "prayer-times/kerala": {
